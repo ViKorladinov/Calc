@@ -1,0 +1,12 @@
+.lols {
+  width: 50px;
+  height: 40px;
+
+  background-color: white;
+}
+.field {
+  border: 1px solid black;
+  height: 30px;
+  width: 210px;
+  text-align: center;
+}
